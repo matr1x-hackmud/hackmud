@@ -5,3 +5,8 @@ permalink: ":slug"
 repository: "opnsrce/hackmud"
 source: "./docs"
 remote_theme: just-the-docs/just-the-docs
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - CHANGELOG.md
