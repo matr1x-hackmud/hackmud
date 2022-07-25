@@ -22,6 +22,7 @@ This is a list of all corporations with their public scripts.
 | #FUTUREtech                          | `futuretech.public`            |
 | Goodfellow Drone Delivery            | `goodfellow.public`            |
 | HALPERYON SYSTEMS                    | `halperyon.public`             |
+| HiveTech(TM)                         | `hivetech.public`              |
 | Hyperion Digitial Management Systems | `hyperion.public`              |
 | Kill -9 -1 Party                     | `kill_9_1.public`              |
 | Killington Biosciences               | `kill_bio.public`              |
